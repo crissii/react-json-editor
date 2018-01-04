@@ -1,6 +1,6 @@
 {
-  "name": "react-json-edit",
-  "version": "0.3.1",
+  "name": "react-json-edit-criss",
+  "version": "0.3.2",
   "description": "JSON Editor for React",
   "main": "index.js",
   "scripts": {
@@ -42,8 +42,8 @@
   },
   "dependencies": {
     "merge": "^1.2.0",
-    "prop-types": "^15.5.10",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   }
 }
